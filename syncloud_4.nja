@@ -1,0 +1,31 @@
+{
+  "mainFile": "", 
+  "use-tabs": true, 
+  "venv": "", 
+  "relatedProjects": [], 
+  "name": "SynCloud 4", 
+  "license": "GNU General Public License v3", 
+  "url": "www.olesistemas.net", 
+  "pythonPath": "C:\\Python27\\python.exe", 
+  "preExecScript": "", 
+  "additional_builtins": [], 
+  "programParams": "", 
+  "indentation": 4, 
+  "PYTHONPATH": "", 
+  "supported-extensions": [
+    ".py", 
+    ".html", 
+    ".jpg", 
+    ".png", 
+    ".ui", 
+    ".css", 
+    ".json", 
+    ".js", 
+    ".ini", 
+    ".pyw", 
+    ".txt"
+  ], 
+  "project-type": "backup", 
+  "postExecScript": "", 
+  "description": ""
+}

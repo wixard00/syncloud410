@@ -1,0 +1,24 @@
+#archivo de preconfiguracion de syncloud y loadbd
+#si desea que se tome un valor de esta lista debe quitar el # del comienzo
+#y setupstart lo cargará
+
+#aqui el nombre de la empresa si desea, esto es opcional
+enterprise=Mi_empresa2
+
+#aqui va la configuracion del servidor ftp de respaldos
+siteftp=190.111.77.45
+userftp=respaldo_46
+passftp=oM/T&)EKZN+4a^1{'8aNx
+timebackup=00:25:00
+
+#aqui va la configuracion del servidor visualweb para
+#cargar la informacion de la empresa
+siteftp2=190.111.77.45
+userftp2=loadvw
+passftp2=DQm-gf,iaNRZlK(s*C=k0
+
+#aqui va la configuracion del servidor mysql del cliente
+hostmysql=127.0.0.1
+usermysql=root
+passmysql=
+portmysql=3306

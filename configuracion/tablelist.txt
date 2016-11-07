@@ -1,0 +1,10 @@
+setup
+oventas
+ocobros
+ocartera
+accountcus
+accountcuscuota
+invoice
+invoicedet
+customer
+item
