@@ -1,2 +1,4 @@
+#estas bases usan el motor InoDB
+
 factel
 intgr

@@ -1,3 +1,5 @@
+#las bases detalladas aqui no seran tomadas en cuenta para los respaldos
+
 information_schema
 mysql
 test

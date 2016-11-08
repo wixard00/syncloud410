@@ -1,1 +1,2 @@
-fss1
+#Aqui se listan las bases de datos que se desea respaldar, si esta vacio el sistema
+#respaldara todas las bases de datos que encuentre
