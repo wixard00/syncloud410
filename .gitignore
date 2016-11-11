@@ -9,7 +9,12 @@
 *.pyc
 *.pyo
 *.nja
+
+# archivos obsoletos o peligrosos #
+###################################
 account.txt
+#bdlist.txt
+#tablelist.txt
 
 # Packages #
 ############
