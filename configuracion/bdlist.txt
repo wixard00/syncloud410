@@ -1,3 +1,0 @@
-aalban=base001
-castro=base002
-atacuri=base004
