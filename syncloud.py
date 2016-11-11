@@ -53,7 +53,7 @@ if not rutacen:
 		if validaclave == clave:
 			setupstart.iniciaconfiguracion()
 	else:
-		print("Fallo de autenticacion")
+		print("Fallo de autentificacion")
 		os.system("PAUSE")
 else:
 	modo = ""
