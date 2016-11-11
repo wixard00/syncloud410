@@ -13,8 +13,8 @@
 # archivos obsoletos o peligrosos #
 ###################################
 account.txt
-#bdlist.txt
-#tablelist.txt
+bdlist.txt
+tablelist.txt
 
 # Packages #
 ############
