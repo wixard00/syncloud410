@@ -8,6 +8,8 @@
 *.so
 *.pyc
 *.pyo
+*.nja
+account.txt
 
 # Packages #
 ############
